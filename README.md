@@ -11,3 +11,5 @@ intente usar la mayoria de los conomimientos que preguntaron en el
 examen teorico
 
 memo, customhook, styled components,render props etc
+
+demo in https://jorgecb.github.io/rickandmortyvite/
